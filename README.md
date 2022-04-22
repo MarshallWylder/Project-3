@@ -36,6 +36,6 @@ If the use of predictive model as a tool to help doctors improve patient outcome
  ├── images
  ├── Notebook.ipynb
  ├── gitignore
- ├── Survival.pdf
+ ├── Wylder Solutions .Inc.pdf
  └── README.md
 ```
